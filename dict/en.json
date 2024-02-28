@@ -1,0 +1,79 @@
+{
+    "buttons": {
+        "google": "Google Search",
+        "youtube": "Youtube Search",
+        "wikipedia": "Wikipedia Search",
+        "copy": "Copy",
+        "copied": "Copied"
+    },
+    "hero": {
+        "subtitle": "Ready to stay ahead of your competition?",
+        "main": "Join the multitude of businesses placing their trust in Aaraby Studio for cutting-edge Arabic keyboard and language solutions."
+    },
+    "cta": {
+        "title": "Aaraby Keyboard Mastery",
+        "subtitle": "Your Guide to Effortless Arabic Keyboard Usage",
+        "first": {
+            "title": "Grammar and Syntax",
+            "desc": "Master Arabic grammar rules, including verb conjugations, noun-adjective agreements, and sentence structures. Pay attention to word order and the use of prepositions."
+        },
+        "second": {
+            "title": "Formal and Informal Language",
+            "desc": "Understand when to use formal or informal language based on the context and audience. Adjust your writing style accordingly, especially in professional or casual settings."
+        },
+        "third": {
+            "title": "Understand Diacritics",
+            "desc": "Diacritics (tashkeel) play a crucial role in Arabic, indicating vowel sounds and pronunciation. Pay attention to their correct usage to convey precise meanings."
+        },
+        "fourth": {
+            "title": "Learn Ligatures",
+            "desc": "Arabic has ligatures (connected letter forms) that change the appearance of certain letters when combined. Familiarize yourself with these ligatures to maintain proper letter connections."
+        },
+        "fifth": {
+            "title": "Master Calligraphy Styles",
+            "desc": "Arabic calligraphy is diverse, with various styles like Naskh, Thuluth, and Diwani. While not mandatory for everyday writing, understanding calligraphy styles can enhance your appreciation of the script."
+        }
+    },
+    "faq": {
+        "title": "You've got questions, we've got answers",
+        "desc": "Whether you're curious about the functionality, eager to explore additional features, or simply seeking guidance on usage, we're here to provide the information you need.",
+        "firstQuestion": "Is Aaraby Studio a free platform?",
+        "firstAnswer": "Aaraby Studio is a free platform. The Virtual Arabic Keyboard provided by Aaraby Studio is available for users at no cost, offering a convenient and accessible tool for typing in Arabic.",
+        "secondQuestion": "Do I need an account to use Aaraby Studio?",
+        "secondAnswer": "The use of Aaraby Studio's Website doesn't require an account.",
+        "thirdQuestion": "What functionalities are provided?",
+        "thirdAnswer": "<strong>1. Arabic Typing:</strong>\n- Effortless and accurate Arabic typing using both physical and on-screen keyboards.\n\n\n<strong>2. Google Search Integration:</strong>\n- Directly search Google for information, news, or any queries without leaving the keyboard interface.\n\n\n<strong>3. YouTube Search:</strong>\n- Seamlessly explore and search for Arabic-language videos on YouTube with dedicated search functionality.\n\n\n<strong>4. Wikipedia Search:</strong>\n- Access a wealth of knowledge by directly searching Wikipedia for information in Arabic.\n\n\n<strong>5. Copy-Paste Functionality:</strong>\n- Convenient copy-paste capabilities for transferring text seamlessly between the Virtual Arabic Keyboard and other applications.\n\n\n<strong>6. Special Characters and Diacritics:</strong>\n- Easily access and input Arabic special characters and diacritics for comprehensive language support.\n\n\n<strong>7. User-Friendly Interface:</strong>\n- Intuitive and user-friendly design to cater to both beginners and experienced users.\n\n\n<strong>8. Offline Typing Support:</strong>\n- Ability to type in Arabic even when offline, ensuring accessibility in various scenarios.\n\nThese functionalities aim to provide users with a comprehensive and efficient Virtual Arabic Keyboard experience, combining language input with powerful search capabilities.\n            "
+    },
+    "footer": {
+        "thanks": "Thank you for trusting us with your information.",
+        "rights": "All Rights Reserved"
+    },
+    "services": {
+        "title": "Our Services",
+        "desc": "<strong>1. What does our Virtual Arabic Keyboard offer?</strong>\nOur Virtual Arabic Keyboard goes beyond standard text input. It seamlessly integrates powerful search tools for Google, YouTube, and Wikipedia directly into the typing experience. Now, you can type in Arabic and access information, videos, or search the web effortlessly.\n \n<strong>2. How do I access the search tools?</strong>\nSimply visit our website Aaraby Studio and open the Virtual Arabic Keyboard. Choose your preferred Arabic layout, start typing, and you'll have direct access to Google, YouTube, and Wikipedia searches right from the keyboard interface.\n\n<strong>3. Can I search Google directly from the keyboard?</strong>\nAbsolutely! Our Virtual Arabic Keyboard allows you to perform Google searches without leaving the keyboard. Type your query, press 'Google Search,' and explore the results instantly.\n\n<strong>4. How about searching for videos on YouTube?</strong>\nSearching for videos on YouTube is a breeze. Enter your keywords directly into the Virtual Arabic Keyboard, press 'Youtube Search' and enjoy a direct link to the YouTube platform.\n\n<strong>5. Is Wikipedia search also integrated?</strong>\nYes, accessing information on Wikipedia is simplified. Type your topic of interest, press 'Wikipedia Search' and delve into the wealth of knowledge available directly from the keyboard.\n\n<strong>6. Can I copy-paste search results?</strong>\nCertainly! Enhance your efficiency by copying and pasting search results or relevant information using 'Ctrl + C' to copy and 'Ctrl + V' to paste, ensuring a seamless experience on Windows."
+    },
+    "privacy": {
+        "title": "Privacy Policy",
+        "desc": "<strong>1. Information We Collect:</strong>\nWe gather various types of information when you interact with our website:\n\n-Personal Information: We collect your name and email address only if you voluntarily fill in contact forms. This information is used to respond to your inquiries and enhance your user experience.\n\n- Automatic Information: We automatically collect certain information when you visit our website, including your IP address. This information is utilized for security purposes, to analyze website usage trends, and to help diagnose technical issues.\n\n- Cookies and Similar Technologies: Our website uses cookies and similar technologies to enhance your browsing experience. These small files stored on your device help us analyze web traffic and customize your online experience. You can choose to accept or decline cookies; however, please note that declining cookies may impact certain features of our website.\n\n- Analytics: We may employ third-party analytics tools to analyze user behavior and improve our services. These tools may collect information such as your device type, browser, and pages visited.\n\n<strong>2. How We Use Your Information:</strong>\nThe information collected is used for the following purposes:\n\n- Improving our website functionality and content.\n- Personalizing your user experience.\n- Responding to inquiries submitted through contact forms.\n- Analyzing website usage trends and enhancing security measures.\n\n<strong>3. Security:</strong>\nWe prioritize the security of your information and have implemented industry-standard measures to protect against unauthorized access, disclosure, alteration, or destruction of your personal information.\n\n<strong>4. Updates to Privacy Policy:</strong>\nOur Privacy Policy may be updated periodically. We recommend checking this page regularly to stay informed about how we handle your information. Continued use of the website constitutes acceptance of any changes.\n\n<strong>5. Links to Third-Party Websites:</strong>\nOur website may contain links to third-party websites. We are not responsible for the privacy practices of such sites. We encourage users to read the privacy policies of any linked websites.\n\nBy using our website, you agree to the terms outlined in this Privacy Policy. If you have any questions or concerns, please contact us"
+    },
+    "contact": {
+        "title": "Contact Us",
+        "subtitle": "Got a technical issue? Want to send feedback about a beta feature? Need details about our Business plan? Let us know.",
+        "email": "Your email",
+        "subject": "Subject",
+        "message": "Your message",
+        "send": "Send message",
+        "sent": "Message sent"
+    },
+    "about": {
+        "title": "About Us",
+        "desc": "Welcome to Aaraby Studio, your premier destination for an unparalleled virtual Arabic typing experience. \n At Aaraby Studio, we take pride in offering our users a cutting-edge Virtual Arabic Keyboard service entirely free of charge. Our mission is to break down language barriers and make Arabic typing accessible to all. Whether you're a professional communicator, a language enthusiast, or simply someone looking to engage in seamless Arabic text input, our user-friendly virtual keyboard is designed to cater to your needs. With Aaraby Studio, linguistic expression becomes effortless, and communication knows no bounds. Join us in this journey of connectivity, where the power of language is at your fingertips."
+    },
+    "header": {
+        "home": "Home",
+        "contact": "Contact Us",
+        "privacy": "Privacy Policy",
+        "about": "About Us",
+        "services": "Our Services"
+    }
+}

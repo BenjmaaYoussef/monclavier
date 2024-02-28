@@ -1,0 +1,79 @@
+{
+    "buttons": {
+        "google": "Recherche Google",
+        "youtube": "Recherche Youtube",
+        "wikipedia": "Recherche Wikipedia",
+        "copy": "Copier",
+        "copied": "Copié"
+    },
+    "hero": {
+        "subtitle": "Prêt à garder une longueur d'avance sur vos concurrents ?",
+        "main": "Rejoignez la multitude d'entreprises qui font confiance à Aaraby Studio pour des solutions de pointe en matière de clavier et de langue arabe."
+    },
+    "cta": {
+        "title": "Maîtrise du clavier Aaraby",
+        "subtitle": "Votre guide pour une utilisation sans effort du clavier arabe",
+        "first": {
+            "title": "Grammaire et syntaxe",
+            "desc": "Maîtrisez les règles de grammaire arabe, y compris les conjugaisons Web, les accords nom-ajectif et les structures de phrases. \n Faites attention à l'ordre des mots et à l'utilisation des prépositions."
+        },
+        "second": {
+            "title": "Langage formel et informel",
+            "desc": "Comprenez quand utiliser un langage formel ou informel en fonction du contexte et du public. Ajustez votre style d'écriture en conséquence, en particulier dans un contexte professionnel ou occasionnel."
+        },
+        "third": {
+            "title": "Comprendre les signes diacritiques",
+            "desc": "Les signes diacritiques (tashkeel) jouent un rôle crucial en arabe, indiquant les voyelles et la prononciation. Faites attention à leur utilisation correcte pour transmettre des significations précises."
+        },
+        "fourth": {
+            "title": "Apprendre les ligatures",
+            "desc": "L'arabe possède des ligatures (formes de lettres connectées) qui modifient l'apparence de certaines lettres lorsqu'elles sont combinées. Familiarisez-vous avec ces ligatures pour maintenir des connexions de lettres appropriées."
+        },
+        "fifth": {
+            "title": "Styles de calligraphie maîtres",
+            "desc": "La calligraphie arabe est diversifiée, avec différents styles comme Naskh, Thuluth et Diwani. Bien que cela ne soit pas obligatoire pour l’écriture quotidienne, la compréhension des styles de calligraphie peut améliorer votre appréciation du script."
+        }
+    },
+    "faq": {
+        "title": "Vous avez des questions, nous avons des réponses",
+        "desc": "Que vous soyez curieux de connaître les fonctionnalités, désireux d'explorer des fonctionnalités supplémentaires ou simplement recherchant des conseils sur l'utilisation, nous sommes là pour vous fournir les informations dont vous avez besoin.",
+        "firstQuestion": "Aaraby Studio est-il une plateforme gratuite ?",
+        "firstAnswer": "Aaraby Studio est une plateforme gratuite. Le Clavier Arabe Virtuel fourni par Aaraby Studio est disponible gratuitement pour les utilisateurs, offrant un outil pratique et accessible pour écrire en arabe.",
+        "secondQuestion": "Ai-je besoin d'un compte pour utiliser Aaraby Studio ?",
+        "secondAnswer": "L'utilisation du site web Aaraby Studio ne nécessite pas de compte.",
+        "thirdQuestion": "Quelles fonctionnalités sont fournies ?",
+        "thirdAnswer": "<strong>1. Écriture en Arabe :</strong>\n- Saisie en arabe facile et précise à l'aide de claviers physiques et virtuels.\n\n<strong>2. Intégration de la Recherche Google :</strong>\n- Recherchez directement sur Google des informations, des actualités ou toute question sans quitter l'interface du clavier.\n\n<strong>3. Recherche sur YouTube :</strong>\n- Explorez et recherchez sans effort des vidéos en langue arabe sur YouTube grâce à une fonction de recherche dédiée.\n\n<strong>4. Recherche sur Wikipedia :</strong>\n- Accédez à une mine de connaissances en effectuant directement des recherches sur Wikipedia en arabe.\n\n<strong>5. Fonctionnalité Copier-Coller :</strong>\n- Capacité de copier-coller de manière pratique pour transférer du texte sans effort entre le Clavier Arabe Virtuel et d'autres applications.\n\n<strong>6. Caractères Spéciaux et Diacritiques :</strong>\n- Accès facile et saisie des caractères spéciaux et des diacritiques arabes pour un support linguistique complet.\n\n<strong>7. Interface Conviviale :</strong>\n- Conception intuitive et conviviale adaptée tant aux débutants qu'aux utilisateurs expérimentés.\n\n<strong>8. Support de Saisie Hors Ligne :</strong>\n- Possibilité de saisir en arabe même hors ligne, assurant l'accessibilité dans divers scénarios.\n\nCes fonctionnalités visent à offrir aux utilisateurs une expérience complète et efficace avec le Clavier Arabe Virtuel, combinant la saisie linguistique avec des capacités de recherche puissantes.\n            "
+    },
+    "footer": {
+        "thanks": "Merci de nous faire confiance.",
+        "rights": "Tous droits réservés"
+    },
+    "services": {
+        "title": "Nos Services",
+        "desc": "<strong>1. Qu'offre notre Clavier Arabe Virtuel?</strong>\n\nNotre Clavier Arabe Virtuel va au-delà de la simple saisie de texte en arabe. Il intègre de manière transparente des outils de recherche puissants pour Google, YouTube et Wikipedia directement. Désormais, vous pouvez écrire en Arabe et accéder aux informations, aux vidéos ou effectuer des recherches sur le web sans effort.\n\n<strong>2. Comment puis-je accéder aux outils de recherche?</strong>\n\nIl vous suffit de visiter notre site web Aaraby Studio et d'ouvrir le Clavier Arabe Virtuel. Choisissez la disposition arabe de votre choix, commencez à écrire en Arabe, et vous aurez un accès direct aux recherches Google, YouTube et Wikipedia depuis l'interface du clavier.\n\n<strong>3. Puis-je effectuer une recherche Google directement depuis le clavier?</strong>\n\nAbsolument ! Notre Clavier Arabe Virtuel vous permet de réaliser des recherches Google sans quitter le clavier. Tapez votre texte en Arabe, appuyez sur 'Google Search', et explorez les résultats instantanément.\n\n<strong>4. Et la recherche de vidéos sur YouTube?</strong>\n\nLa recherche de vidéos sur YouTube est simple comme bonjour. Entrez vos mots-clés directement dans le Clavier Arabe Virtuel, appuyez sur le bouton 'Youtube Search', et profitez d'un lien direct vers la plateforme YouTube.\n\n<strong>5. La recherche Wikipedia est-elle également intégrée?</strong>\n\nOui, l'accès aux informations sur Wikipedia en Arabe est simplifié. Tapez le texte en Arabe qui vous intéresse, appuyez sur le bouton 'Wikipedia Search', et plongez dans la richesse des connaissances disponibles directement depuis le clavier.\n\n<strong>6. Puis-je copier-coller les résultats de recherche?</strong>\n\nBien sûr ! Améliorez votre efficacité en copiant et collant les résultats de recherche ou les informations pertinentes en utilisant 'Ctrl + C' pour copier et 'Ctrl + V' pour coller, assurant une expérience inégalée sur Windows.\n            "
+    },
+    "privacy": {
+        "title": "Politique de confidentialité",
+        "desc": "<strong>1. Informations Que Nous Collectons :</strong>\n            Nous recueillons différents types d'informations lorsque vous interagissez avec notre site web :\n            \n            - Informations Personnelles : Nous collectons votre nom et votre adresse e-mail uniquement si vous remplissez volontairement des formulaires de contact. Ces informations sont utilisées pour répondre à vos demandes et améliorer votre expérience utilisateur.\n            \n            - Informations Automatiques : Nous collectons automatiquement certaines informations lorsque vous visitez notre site web, y compris votre adresse IP. Ces informations sont utilisées à des fins de sécurité, pour analyser les tendances d'utilisation du site web et diagnostiquer d'éventuels problèmes techniques.\n            \n            - Cookies et Technologies Similaires : Notre site web utilise des cookies et des technologies similaires pour améliorer votre expérience de navigation. Ces petits fichiers stockés sur votre appareil nous aident à analyser le trafic web et à personnaliser votre expérience en ligne. Vous pouvez choisir d'accepter ou de refuser les cookies ; cependant, veuillez noter que le refus des cookies peut affecter certaines fonctionnalités de notre site web.\n            \n            - Analytique : Nous pouvons utiliser des outils analytiques tiers pour analyser le comportement des utilisateurs et améliorer nos services. Ces outils peuvent collecter des informations telles que le type de votre appareil, votre navigateur et les pages visitées.\n            \n            <strong>2. Utilisation de Vos Informations :</strong>\n            Les informations collectées sont utilisées à des fins suivantes :\n            \n            - Améliorer la fonctionnalité et le contenu de notre site web.\n            - Personnaliser votre expérience utilisateur.\n            - Répondre aux demandes soumises via les formulaires de contact.\n            - Analyser les tendances d'utilisation du site web et améliorer les mesures de sécurité.\n            \n            <strong>3. Sécurité :</strong>\n            \n            Nous accordons une priorité absolue à la sécurité de vos informations et avons mis en place des mesures conformes aux normes de l'industrie pour protéger contre tout accès non autorisé, divulgation, altération ou destruction de vos informations personnelles.\n            \n            <strong>4. Mises à Jour de la Politique de Confidentialité :</strong>\n            \n            Notre Politique de Confidentialité peut être mise à jour périodiquement. Nous recommandons de consulter régulièrement cette page pour rester informé sur la manière dont nous traitons vos informations. La poursuite de l'utilisation du site web constitue l'acceptation de tout changement.\n            \n            <strong>5. Liens Vers des Sites Web Tiers :</strong>\n            \n            Notre site web peut contenir des liens vers des sites web tiers. Nous ne sommes pas responsables des pratiques de confidentialité de ces sites. Nous encourageons les utilisateurs à lire les politiques de confidentialité de tout site web lié.\n            \n            En utilisant notre site web, vous acceptez les termes énoncés dans cette Politique de Confidentialité. Si vous avez des questions ou des préoccupations, veuillez nous contacter."
+    },
+    "contact": {
+        "title": "Contactez-nous",
+        "subtitle": "Vous avez un problème technique ? Vous souhaitez envoyer des commentaires sur une fonctionnalité bêta ? Besoin de détails sur notre plan Business ? Faites le nous savoir.",
+        "email": "Votre email",
+        "subject": "Sujet",
+        "message": "Votre message",
+        "send": "Envoyer le message",
+        "sent": "Message envoyé"
+    },
+    "about": {
+        "title": "À propos de nous",
+        "desc": "Bienvenue chez Aaraby Studio, votre destination de choix pour une expérience incomparable de saisie et écriture en Arabe en utilisant un clavier Arabe virtuel. \n \n Chez Aaraby Studio, nous sommes fiers de vous proposer notre service de Clavier Arabe Virtuel de pointe, entièrement gratuit. Notre mission est de briser les barrières linguistiques et de rendre la saisie en arabe accessible à tous. \n \n Que vous soyez un professionnel de la communication, un passionné de langues ou simplement quelqu'un cherchant à saisir du texte arabe de manière transparente, notre clavier virtuel convivial est conçu pour répondre à vos besoins. \n\n Avec Aaraby Studio, l'expression linguistique devient sans effort, et la communication ne connaît aucune limite. Rejoignez-nous dans ce voyage de connectivité, où la puissance du langage est à portée de main. \n"
+    },
+    "header": {
+        "home": "Accueil",
+        "contact": "Contactez-nous",
+        "privacy": "Politique de confidentialité",
+        "about": "À propos de nous",
+        "services": "Nos Services"
+    }
+}
